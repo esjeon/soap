@@ -1,5 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
+#define varname "SOAP_FILE"
+
 static const Pair pairs[] = {
 	/* regex                  action */
 	{ "\.(jpg|png|tiff)$",    "feh %s"        },
